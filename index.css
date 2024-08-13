@@ -1,0 +1,47 @@
+body{
+    background-color:#1F2937;
+    color: aliceblue;
+    text-align: start;
+    text-indent: 20%;
+    font-size: 2.3rem;
+
+}
+button{
+    background-color: #10B981;
+    color:aliceblue;
+    margin-left: 20%;
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+    font-size: 1.2rem;
+    padding: 10px;
+    margin-bottom: 50px;
+    border:none;
+}
+#text1{
+    color: aliceblue;
+}
+#text2{
+    color:#10B981;
+}
+h1{
+    margin-bottom: 0px;
+    margin-top:5px;
+}
+.password{
+    background-color: #10B981;
+    height: 75px;
+    width: 300px;
+    border-radius: 10px;
+    margin-top: 50px;
+    padding: 10px 10px;
+    font-size: 1.75rem;
+   
+}
+#border{
+    border-top: rgba(24, 29, 24, 0.635) solid 5px;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
